@@ -1,6 +1,5 @@
 # Olá devs e recruiters!!
-Este é meu Readme!!
- 
+
 Visualize meus projetos e sinta-se á vontade para dar seu feedback!!
 
 Sou backend developer, porém também gosto de PHP e Javascript.
